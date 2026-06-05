@@ -1,2 +1,2 @@
 # Machine-Unlearning
-Testing Machine Unlearning Algorithms
+Course work. Testing Machine Unlearning Algorithms
